@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            // set color background to gradient blue to aqua to turquoise
+            <gradient
+                android:angle="45"
+                android:endColor="#00FFFF"
+                android:startColor="#1d41b8" />
+        </shape>
+    </item>
+</selector>
